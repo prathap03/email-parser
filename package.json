@@ -1,0 +1,15 @@
+{
+  "name": "email-parser-reachinbox",
+  "version": "1.0.0",
+  "description": "email parser using oauth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Prathap P J",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.14.0",
+    "ejs": "^3.1.10"
+  }
+}
